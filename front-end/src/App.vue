@@ -41,7 +41,7 @@
 
 #header a {
   font-size: 25px;
-  color: #fff;
+  color: #000;
 }
 
 .nav-link {
@@ -56,6 +56,10 @@
     font-size: 30px !important;
     padding-left: 20px;
 }
+
+.bg-dark {
+    background-color: #2eb96d !important;
+  }
 
 @media only screen and (min-width: 961px) {
     .navbar-expand-lg .navbar-collapse {
