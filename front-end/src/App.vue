@@ -29,6 +29,7 @@
   </div>
   <div class="footer">
     <a href="https://github.com/leinaD006/FinalProject">github</a>
+    <p>5 hours</p>
   </div>
 </div>
   
@@ -83,7 +84,7 @@
 .footer {
   position: fixed;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   width: 100%;
   height: 20px;
   background: #e3e3e3;
